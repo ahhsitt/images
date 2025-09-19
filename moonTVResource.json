@@ -1,0 +1,15 @@
+{
+    "cache_time": 9200,
+    "api_site": {
+        "api_3": {
+            "name": "TV-360资源",
+            "api": "https://360zy.com/api.php/provide/vod",
+            "detail": "https://360zy.com"
+        },
+        "api_29": {
+            "name": "TV-电影天堂资源",
+            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+            "detail": "http://caiji.dyttzyapi.com"
+        }
+    }
+}
